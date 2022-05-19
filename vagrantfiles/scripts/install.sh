@@ -1,2 +1,4 @@
 #! /usr/bin/env sh
-echo hello, world!!!!
+echo updating apt-get repositories
+
+apt-get update
